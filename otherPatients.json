@@ -1,0 +1,26 @@
+[
+    {
+        "firstName": "Ajee",
+        "lastName": "Raja",
+        "sex": "FEMALE",
+        "weight": 75.5,
+        "birthDate": "2000-05-15",
+        "height": 1.8
+    },
+    {
+        "firstName": "Yves",
+        "lastName": "Hof",
+        "sex": "MALE",
+        "weight": 62,
+        "birthDate": "1995-08-20",
+        "height": 1.65
+    },
+    {
+        "firstName": "Ajith",
+        "lastName": "Raja",
+        "sex": "MALE",
+        "weight": 80,
+        "birthDate": "2005-03-10",
+        "height": 1.85
+    }
+]

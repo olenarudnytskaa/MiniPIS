@@ -1,0 +1,14 @@
+[
+    {
+        "speciality": "Gynecologist",
+        "surname": "Meyer",
+        "prename": "Anna",
+        "employment": 60
+    },
+    {
+        "speciality": "Dermatologist",
+        "surname": "Hofstetter",
+        "prename": "Michael",
+        "employment": 100
+    }
+]

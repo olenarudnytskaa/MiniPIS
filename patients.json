@@ -1,0 +1,14 @@
+[
+    {
+        "sex": "MALE",
+        "weight": 80,
+        "birthDate": "1985-05-12",
+        "height": 1.8
+    },
+    {
+        "sex": "FEMALE",
+        "weight": 62,
+        "birthDate": "1992-11-23",
+        "height": 1.68
+    }
+]
